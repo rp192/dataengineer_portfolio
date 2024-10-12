@@ -50,6 +50,7 @@ As you can see the top 1st product is blank that is because the dataset that was
 
 ## Entire dashboard
 
+![dash](https://github.com/user-attachments/assets/ab2d7f2c-a3a4-4cab-82fd-6ea8ab4409b3)
 
 # Insights
 
