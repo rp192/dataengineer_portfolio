@@ -1,5 +1,13 @@
 # Data Analyst|Data Engineer
 
+# Certifications
+
+## Microsoft Certified: Azure Data Fundamentals(DP-900)
+![DP900](https://github.com/user-attachments/assets/df270aa0-6eb9-4d36-8351-e36fa529a415)
+
+## Academy Accreditation - Databricks Lakehouse Fundamentals
+![lakehouse fundamentals](https://github.com/user-attachments/assets/f9e8467f-656d-4ca1-80f0-3d3fcad21f73)
+
 # Projects
 
 # Sales analysis of Hardware chain
