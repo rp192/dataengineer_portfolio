@@ -1,4 +1,4 @@
 title: Rohit Pillai
 #description: Data engineer
 show_downloads: true
-theme: jekyll-theme-minimal
+remote_theme: pages-themes/architect@v0.2.0
