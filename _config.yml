@@ -2,4 +2,4 @@ title: Rohit Pillai
 logo: assets/headshot.jpg
 #description: Data engineer
 show_downloads: true
-remote_theme: pages-themes/leap-day@v0.2.0
+remote_theme: remote_theme: pages-themes/minimal@v0.2.0
