@@ -4,7 +4,7 @@
 1. [Certifications](#certs)
 2. [Projects](#pro)
     1. [Power BI sales project](#power)
-    2. [Database Migration project on Azure](#migration)
+    2. [Database Migration project on Azure](https://github.com/rp192/dataengineer_portfolio/blob/e753db9fb09bb07ca61ea7f1d48b32912f87c44c/dataengineer_project.md)
 3. [University Projects](#uni)
     1. [Household energy prediction](#python)
     2. [Spotify genre prediction](#R)
@@ -73,9 +73,6 @@ This gives a clear understanding about the nationwide statistics, marketing and 
 #### [2] Year wise sales
 The inital year of 2017 had the lowest sales revenue which increased drastically in the 2018.
 There was again a dip in revenue in 2019 but it was not much but it continued going down in 2020, the decline can be observed from the months of march to June.
-
-### MSSQL Server migration to Azure cloud <a name="migration"></a>
-
 
 ## University projects <a name="uni"></a>
 ### Predicting future energy use of a household <a name="python"></a>
