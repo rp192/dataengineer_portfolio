@@ -27,7 +27,7 @@ The resources used in this project are-:
        3. Azure Data Factory -: Creating the resource v2, navigating to *Acess control Management (IAM)* and *Add a role assignment*
           now add yourself to the role of administrator as when you will be using a enterprise Azure account or Azure student account.
           
-          [assets/resources.jpg](https://github.com/rp192/dataengineer_portfolio/blob/7bd1f59290e2da613aee8b5af6e558e6945e2ef1/assets/resources.jpg)
+  <img title="a title" alt="Alt text" src="assets/resources.jpg">
 
   3. Creating a new user and password in the local database.
      ```
