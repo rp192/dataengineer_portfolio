@@ -4,7 +4,7 @@
 1. [Certifications](#certs)
 2. [Projects](#pro)
     1. [Power BI sales project](#power)
-    2. - [Projects](https://your-username.github.io/migration-projects/) 
+    2. [Azure data migration Project (new page)](https://rp192.github.io/migration-projects/)
 3. [University Projects](#uni)
     1. [Household energy prediction](#python)
     2. [Spotify genre prediction](#R)
