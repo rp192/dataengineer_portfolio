@@ -1,3 +1,9 @@
+---
+layout: default  # Or the layout type defined in your theme
+title: Projects
+permalink: /migration-projects/  # URL for the new page
+---
+
 # Data Engineering projects
 
 ## MSSQL Server migration to Azure cloud
