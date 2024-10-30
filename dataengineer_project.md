@@ -1,7 +1,7 @@
 ---
 layout: default  # Or the layout type defined in your theme
 title: Projects
-permalink: /migration-projects/  # URL for the new page
+permalink: https://rp192.github.io/migration-projects/
 ---
 
 # Data Engineering projects
