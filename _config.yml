@@ -3,3 +3,9 @@ logo: assets/headshot.jpg
 #description: Data engineer
 show_downloads: true
 remote_theme: pages-themes/dinky@v0.2.0
+
+nav:
+  - title: "Home"
+    url: "/"
+  - title: "migration-projects"  # Add your new page here
+    url: "https://rp192.github.io/migration-projects/"
